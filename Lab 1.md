@@ -1,10 +1,10 @@
 Introduction to Power BI
 ========================
 
-Exercise 1: Download and Install the Power BI Desktop 
-------------------------------------------------------
+Exercise 1: Download and Install the Power BI Desktop
+-----------------------------------------------------
 
-#### Scenario 
+#### Scenario
 
 >   With Power BI Desktop, you connect to data, shape data, and use the
 >   resulting model to create reports. Power BI Desktop centralises, simplifies,
@@ -45,10 +45,7 @@ Exercise 1: Download and Install the Power BI Desktop
     browser. (If the file is not visible in the status bar or you have closed
     the browser, run the file from your default downloads folder)
 
-![](media/c76ca917ff8764793af9c43716a9cc9c.png)
-
->   **Note:** *When prompted with the User Account Control dialog, choose Yes.*  
->   
+>   **Note:** *When prompted with the User Account Control dialog, choose Yes.*
 
 1.  Keep clicking **Next** to install the Power BI Desktop accepting the
     defaults in the setup wizard. Take note of the End User License Agreement.
@@ -60,8 +57,8 @@ Exercise 1: Download and Install the Power BI Desktop
 
 End of Exercise
 
-Exercise 2: Download and Install Lab Exercise Files 
-----------------------------------------------------
+Exercise 2: Download and Install Lab Exercise Files
+---------------------------------------------------
 
 In this exercise you will download and install the exercise files and lab
 solutions from a shared location on the internet. These files must be installed
@@ -90,8 +87,6 @@ free to access them in your own time.
 ![](media/0bff827a948c88dafe540833ba3fcd25.png)
 
 >   .
-
-![](media/c76ca917ff8764793af9c43716a9cc9c.png)
 
 >   **Note:** If you extract the files to a different location some of the lab
 >   solution files will no longer work correctly. You will need to change the
