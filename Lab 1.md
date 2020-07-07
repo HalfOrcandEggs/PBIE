@@ -23,9 +23,10 @@ Exercise 1: Download and Install the Power BI Desktop
 ####  Task 1: Download Power BI Desktop
 
 1.  Open a new browser window and navigate to:
-    +++<https://aka.ms/PBISingleInstaller>+++
 
-2.  When the Microsoft Power BI Desktop download page appears, click the
+>   \+++<https://aka.ms/PBISingleInstaller>+++
+
+1.  When the Microsoft Power BI Desktop download page appears, click the
     download button as shown:  
     *(accepting* English *as the default)*
 
@@ -69,20 +70,21 @@ free to access them in your own time.
 ####  Task 1: Download the Power BI Essentials course files
 
 1.  Open a new browser window and navigate to:
-    +++<https://tinyurl.com/yd8r2uha>+++
 
-2.  Click on the labfiles icon to download the **labfiles.zip** archive.
+>   \+++<https://tinyurl.com/yd8r2uha>+++
 
-3.  This will save the file to the default **Downloads** folder
+1.  Click on the labfiles icon to download the **labfiles.zip** archive.
 
-4.  Once the download is complete, open File Explorer to the **Downloads**
+2.  This will save the file to the default **Downloads** folder
+
+3.  Once the download is complete, open File Explorer to the **Downloads**
     folder.
 
-5.  Right click the **labfiles.zip** file and choose **Extract All**.
+4.  Right click the **labfiles.zip** file and choose **Extract All**.
 
-6.  Enter the folder name of C:\\ to extract the files to.
+5.  Enter the folder name of C:\\ to extract the files to.
 
-7.  This will create a new folder called: **C:\\Labfiles** with the following
+6.  This will create a new folder called: **C:\\Labfiles** with the following
     folder structure.
 
 ![](media/0bff827a948c88dafe540833ba3fcd25.png)
