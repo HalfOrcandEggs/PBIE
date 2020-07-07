@@ -69,7 +69,7 @@ free to access them in your own time.
 ####  Task 1: Download the Power BI Essentials course files
 
 1.  Open a new browser window and navigate to: +++Type
-    <https://tinyurl.com/yd8r2uha> ++++
+    https://tinyurl.com/yd8r2uha+++
 
 2.  Click on the labfiles icon to download the **labfiles.zip** archive.
 
