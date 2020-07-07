@@ -23,7 +23,7 @@ Exercise 1: Download and Install the Power BI Desktop
 ####  Task 1: Download Power BI Desktop
 
 1.  Open a new browser window and navigate to:
-    <https://aka.ms/PBISingleInstaller>.
+    ++++<https://aka.ms/PBISingleInstaller>++++
 
 2.  When the Microsoft Power BI Desktop download page appears, click the
     download button as shown:  
@@ -68,8 +68,8 @@ free to access them in your own time.
 
 ####  Task 1: Download the Power BI Essentials course files
 
-1.  Open a new browser window and navigate to: ++++Copyable and Type
-    https://tinyurl.com/yd8r2uha++++
+1.  Open a new browser window and navigate to:
+    ++++https://tinyurl.com/yd8r2uha++++
 
 2.  Click on the labfiles icon to download the **labfiles.zip** archive.
 
