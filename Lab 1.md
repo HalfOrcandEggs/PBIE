@@ -1,6 +1,3 @@
-Introduction to Power BI
-========================
-
 Exercise 1: Download and Install the Power BI Desktop
 -----------------------------------------------------
 
@@ -20,26 +17,25 @@ Exercise 1: Download and Install the Power BI Desktop
 
 >   Estimated Time to complete: 15 min
 
-####  Task 1: Download Power BI Desktop
+#### Task 1: Download Power BI Desktop
 
 1.  Open a new browser window and navigate to:
 
->   https://aka.ms/PBISingleInstaller
+    >   https://aka.ms/PBISingleInstaller
 
-1.  When the Microsoft Power BI Desktop download page appears, click the
-    download button as shown:  
-    *(accepting* English *as the default)*
+2.  When the Microsoft Power BI Desktop download page appears, click the
+    download button as shown: *(accepting* English *as the default)*
 
 ![](media/1537749a5143913a3ea5b161fba449df.jpg)
 
 1.  In Choose the download you want dialog, select the checkbox next to
-    *PBIDekstop_x64.msi* as shown:
+    *PBIDekstopSetup.exe* as shown:
 
-![](media/a7b55eaa07c148d67d8877f4f76e416d.jpg)
+![](media/a575cec66b93c8d76b42ff7d2bcf582b.png)
 
 1.  Click **Next** to start the download.
 
-####  Task 2: Install the Power BI Desktop<br>
+#### Task 2: Install the Power BI Desktop<br>
 
 1.  Once the download has completed, start the **PowerBIDesktopSetup_64.exe**
     application (installer) by clicking the file name in the status bar of your
@@ -58,6 +54,8 @@ Exercise 1: Download and Install the Power BI Desktop
 
 End of Exercise
 
+===
+
 Exercise 2: Download and Install Lab Exercise Files
 ---------------------------------------------------
 
@@ -67,24 +65,24 @@ to C:\\LabFiles for the solutions to work correctly without modification. There
 are many other resources and references for further study at this location, feel
 free to access them in your own time.
 
-####  Task 1: Download the Power BI Essentials course files
+#### Task 1: Download the Power BI Essentials course files
 
 1.  Open a new browser window and navigate to:
 
->   https://tinyurl.com/yd8r2uha
+    >   https://tinyurl.com/yd8r2uha
 
-1.  Click on the labfiles icon to download the **labfiles.zip** archive.
+2.  Click on the labfiles icon to download the **labfiles.zip** archive.
 
-2.  This will save the file to the default **Downloads** folder
+3.  This will save the file to the default **Downloads** folder
 
-3.  Once the download is complete, open File Explorer to the **Downloads**
+4.  Once the download is complete, open File Explorer to the **Downloads**
     folder.
 
-4.  Right click the **labfiles.zip** file and choose **Extract All**.
+5.  Right click the **labfiles.zip** file and choose **Extract All**.
 
-5.  Enter the folder name of C:\\ to extract the files to.
+6.  Enter the folder name of C:\\ to extract the files to.
 
-6.  This will create a new folder called: **C:\\Labfiles** with the following
+7.  This will create a new folder called: **C:\\Labfiles** with the following
     folder structure.
 
 ![](media/0bff827a948c88dafe540833ba3fcd25.png)
