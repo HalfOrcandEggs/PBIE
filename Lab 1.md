@@ -19,21 +19,21 @@ Exercise 1: Download and Install the Power BI Desktop
 
 #### Task 1: Download Power BI Desktop
 
-1.  Open a new browser window and navigate to:
+1.  [] Open a new browser window and navigate to:
 
-    >   https://aka.ms/PBISingleInstaller
+-   https://aka.ms/PBISingleInstaller
 
-2.  When the Microsoft Power BI Desktop download page appears, click the
+1.  [] When the Microsoft Power BI Desktop download page appears, click the
     download button as shown: *(accepting* English *as the default)*
 
 ![](media/1537749a5143913a3ea5b161fba449df.jpg)
 
-1.  In Choose the download you want dialog, select the checkbox next to
+1.  [] In Choose the download you want dialog, select the checkbox next to
     *PBIDekstopSetup.exe* as shown:
 
 ![](media/a575cec66b93c8d76b42ff7d2bcf582b.png)
 
-1.  Click **Next** to start the download.
+1.  [] Click **Next** to start the download.
 
 #### Task 2: Install the Power BI Desktop<br>
 
@@ -69,20 +69,20 @@ free to access them in your own time.
 
 1.  Open a new browser window and navigate to:
 
-    >   https://tinyurl.com/yd8r2uha
+-   https://tinyurl.com/yd8r2uha
 
-2.  Click on the labfiles icon to download the **labfiles.zip** archive.
+1.  Click on the labfiles icon to download the **labfiles.zip** archive.
 
-3.  This will save the file to the default **Downloads** folder
+2.  This will save the file to the default **Downloads** folder
 
-4.  Once the download is complete, open File Explorer to the **Downloads**
+3.  Once the download is complete, open File Explorer to the **Downloads**
     folder.
 
-5.  Right click the **labfiles.zip** file and choose **Extract All**.
+4.  Right click the **labfiles.zip** file and choose **Extract All**.
 
-6.  Enter the folder name of C:\\ to extract the files to.
+5.  Enter the folder name of C:\\ to extract the files to.
 
-7.  This will create a new folder called: **C:\\Labfiles** with the following
+6.  This will create a new folder called: **C:\\Labfiles** with the following
     folder structure.
 
 ![](media/0bff827a948c88dafe540833ba3fcd25.png)
